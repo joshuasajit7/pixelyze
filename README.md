@@ -1,6 +1,5 @@
 # Pixelyze
-This repo is the official implementation of "Learning Traces by Yourself: Blind Image Forgery
-Localization via Anomaly Detection with Pixelyze". <br>
+This repo includes Localization via Anomaly Detection with Pixelyze". <br>
 
 
 
